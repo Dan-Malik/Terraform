@@ -14,7 +14,7 @@ unzip terraform_0.11.13_linux_amd64.zip
 sudo mv terraform /usr/local/bin
 rm terraform_0.11.13_linux_amd64.zip
 
-Geneerate SSH key:
+Generate SSH key:
 ssh-keygen
 
 
